@@ -8,7 +8,7 @@ description: |
 # baseurl is used to format links in jekyll
 baseurl: ""
 # url is the sites full domain name
-url: "http://yourfirstpr.github.io/"
+url: "http://siweiyu.github.io/"
 # nice and clean blog URLs
 permalink: "/blog/:title.html"
 # name is used in the page header
@@ -17,9 +17,9 @@ name: Your First PR
 
 ## default site author info
 # author is the name below posts
-author: Charlotte Spencer
+author: Siwei Yu
 # author-url links this name to another page, twitter etc
-author-url: https://twitter.com/charlotteis
+author-url: https://siweiyu.github.io
 
 ## this prevents jekyll from building pages that are not website pages, but repo only pages
 exclude: ["README.md", "CODEOFCONDUCT.md"]
